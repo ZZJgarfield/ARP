@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1546062570 source:d:\codeblocks files\thirdgrade\p58\main.c
+	<stdio.h>
+	<stdlib.h>
+	<Winsock2.h>
+	<Iphlpapi.h>
+	<tchar.h>
+	<conio.h>
+
